@@ -1,0 +1,5 @@
+[package]
+name = "applesiliconbug"
+version = "0.0.1"
+description = "bug"
+edition = "2021"
